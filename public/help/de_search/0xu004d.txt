@@ -1,0 +1,10 @@
+MAIL
+ 11,8
+MANUAL
+ 1
+MEDIDA
+ 6
+MINIMO
+ 6
+MÓDULO
+ 10,7,4

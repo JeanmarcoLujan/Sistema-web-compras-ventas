@@ -1,0 +1,39 @@
+1
+ Página p... ¡Se requiere una licencia Advanced!
+ index.htm
+2
+ 1. Inici... ¡Se requiere una licencia Advanced!
+ iniciar_sesion.htm
+3
+ 2. Registr... ¡Se requiere una licencia Advanced!
+ registrar_usuario.htm
+4
+ 3. Al... ¡Se requiere una licencia Advanced!
+ 3__almacen.htm
+5
+ Categ... ¡Se requiere una licencia Advanced!
+ categorias.htm
+6
+ Prod... ¡Se requiere una licencia Advanced!
+ productos.htm
+7
+ 4. Co... ¡Se requiere una licencia Advanced!
+ 4__compras.htm
+8
+ Prove... ¡Se requiere una licencia Advanced!
+ proveedores.htm
+9
+ Ingr... ¡Se requiere una licencia Advanced!
+ ingresos.htm
+10
+ 5. V... ¡Se requiere una licencia Advanced!
+ 5__ventas.htm
+11
+ Clie... ¡Se requiere una licencia Advanced!
+ clientes.htm
+12
+ Ven... ¡Se requiere una licencia Advanced!
+ ventas.htm
+13
+ 6. Re... ¡Se requiere una licencia Advanced!
+ 6__reportes.htm
